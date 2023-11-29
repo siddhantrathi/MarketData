@@ -6,12 +6,7 @@ Link For Data: https://www1.nseindia.com/content/historical/DERIVATIVES/2023/MAR
 import pandas as pd
 import pymongo
 from datetime import datetime, timedelta
-from io import BytesIO
-from zipfile import ZipFile
-from urllib.request import urlopen
 import json
-import warnings
-warnings.filterwarnings('ignore')
 
 
 client = pymongo.MongoClient(
