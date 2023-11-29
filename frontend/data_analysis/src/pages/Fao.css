@@ -1,0 +1,39 @@
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+.datePick{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    width: 25%;
+}
+
+.datePickWrap{
+    display: flex;
+    justify-content: center;
+}
+
+.tableContainer{
+    margin-top: 50px;
+}
+
+.rawDataHeader{
+    background-color: darkblue;
+    color: cyan;
+}
+
+.noDataHeader{
+    background-color: red;
+    color: white;
+}
+
+.Loader{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.processedDataHeader{
+    background-color: darkgreen;
+    color: greenyellow;
+}

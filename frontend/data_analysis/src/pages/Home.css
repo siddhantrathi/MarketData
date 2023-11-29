@@ -1,0 +1,14 @@
+.LinksForDataContainer{
+    margin-top: 50px;
+}
+
+.ButtonsContainer{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ButtonsContainer a {
+    margin: 25px;
+}

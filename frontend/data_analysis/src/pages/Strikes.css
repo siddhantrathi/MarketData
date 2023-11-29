@@ -1,0 +1,11 @@
+.date_pick_wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 25px;
+}
+
+.option_type{
+    width: 200px;
+}

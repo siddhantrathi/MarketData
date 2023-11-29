@@ -1,0 +1,15 @@
+.datePickWrap{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.dataNotFound{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+.dataNotFound h5{
+    color: white;
+}
